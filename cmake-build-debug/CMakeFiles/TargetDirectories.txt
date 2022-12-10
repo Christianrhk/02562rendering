@@ -1,0 +1,4 @@
+/Applications/DTU/9. semester/rendering/render02562/cmake-build-debug/CMakeFiles/SOIL.dir
+/Applications/DTU/9. semester/rendering/render02562/cmake-build-debug/CMakeFiles/raytrace.dir
+/Applications/DTU/9. semester/rendering/render02562/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Applications/DTU/9. semester/rendering/render02562/cmake-build-debug/CMakeFiles/rebuild_cache.dir
